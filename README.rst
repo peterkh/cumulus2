@@ -7,8 +7,8 @@ This is the second generation of the cumulus tool, original version: Cumulus_.
 
 Build status
 ------------
-
-Coming soon...
+.. image:: https://travis-ci.org/peterkh/cumulus2.svg?branch=master
+    :target: https://travis-ci.org/peterkh/cumulus2
 
 The problem
 -----------
